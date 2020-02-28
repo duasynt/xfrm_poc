@@ -25,7 +25,7 @@ It will probably take several tries to win the race (sometimes over 10
 attempts), so run it in a loop just like it says:
 
 ```
-$ while :; ./lucky0 -q && break; done
+$ while :; do ./lucky0 -q && break; done
 ```
 
 On success, the current user is added to /etc/sudoers without a password.
