@@ -45,4 +45,4 @@ Linux localhost.localdomain 4.18.0-80.11.2.el8_0.x86_64 #1 SMP Tue Sep 24 11:32:
 [root@localhost vnik]# 
 ```
 
-**On 4.4.* kernels it may trigger a null oops but it's fully recoverable.**
+**On 4.4.x kernels it may trigger a null oops but it's fully recoverable.**
